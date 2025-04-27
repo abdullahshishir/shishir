@@ -1,0 +1,550 @@
+*{
+    margin:0%;
+    padding:0%;
+    font-family: sans-serif;
+}
+.a{
+    background-color: white;
+    position: fixed;
+    width:100%;
+    height:100px;
+    display:flex;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, .2);
+    
+}
+.b{
+    width:12%;
+    height:80px;
+    margin-left:100px;
+    
+}
+.c{
+    width:70%;
+    height:80px;
+margin-top:10px;
+
+}
+    
+  
+
+.d{
+    width:12% ;
+    height:70px;
+margin-top:25px;
+   margin-left:-60px;
+}
+.e { width:90% ;
+    height:60px;
+}
+
+.f{
+    width:800px;
+    height:40px;
+    margin-top:40px;
+    margin-left:70px;
+   }
+
+ .f ul{
+ padding-left:30px;
+   }
+
+.f ul li {
+    float:left;
+    list-style:none;
+    font-size:18px;
+    font-weight:bold;
+    padding-left:20px;
+
+}   
+.f ul li a {
+    color: black;
+    text-decoration: none;
+   
+}
+
+.f ul li a:hover {
+    color: black;
+    text-decoration: none;
+    background-color:#90EE90 ;
+   }
+
+.g {
+    width: 80px;
+    height:30px;
+   margin-top:20px;
+   margin-left:40px;
+   
+}
+
+.j {
+    width: 100px;
+    height:30px;
+    padding-top:8px;
+   margin-top:55px ;
+   font-size:18px;
+   text-align:center; 
+   color: black;
+   font-weight: bold;
+   margin-left: -80px;
+   background-color:#90EE90 ;
+
+}
+.j a{
+    text-decoration: none;
+}
+.j:hover {
+    width:100px;
+    height:30px;
+    padding-top:8px;
+   margin-top:55px ;
+   font-size:18px;
+   text-align:center; 
+   color: black;
+   font-weight: bold;
+   margin-left: -80px;
+   background-color:white ;
+   box-shadow:0px 0px 10px
+rgba(0,0,0,.1);
+}
+.k {
+   
+    color: black;
+    font-weight: bold;
+    text-align:center;
+    padding-top:20px;
+    width:200px;
+    height:40px;
+    background-color: #90EE90;
+    margin-left:-480px;
+    margin-top:400px;
+    border-radius:10px;
+    
+}
+.k:hover{
+     
+    color: black;
+    font-weight: bold;
+    text-align:center;
+    padding-top:20px;
+    width:200px;
+    height:40px;
+    background-color: white;
+    margin-left:-480px;
+    margin-top:400px;
+    border-radius:10px;
+    
+}
+.k a{
+    color: black;
+    text-decoration: none;
+}
+
+  .m { 
+    font-size:30px ;
+color:#BA55D3 ;
+margin-left:30px;
+  }  
+
+.a1 {
+   padding-top:150px;
+    width:100%;
+    height:500px;
+    display:flex;
+    background:url(img/bac.jpg);
+background-repeat:no-repeat;
+background-position:center;
+background-size:cover;
+background-attachment:fixed;
+
+}
+
+.a3{
+   
+    width:30%;
+    height:400px;
+    background-color:blue;
+    margin-top:20px;
+    padding-top:40px;
+    padding-bottom: 40px;
+     background:url(img/s.png);
+background-repeat:no-repeat;
+background-position:center;
+} 
+
+.a3 h4{
+    text-align:center;
+    padding-top:5px;
+}
+.a4 {
+    width:200px;
+    height:30px;
+    background-color:#90EE90;
+   margin-top:70px;
+    margin-left:380px;
+    border-radius:30px;
+
+    } 
+.a5 {
+    width:200px;
+    height:30px;
+    background-color: pink;
+   margin-top:20px;
+    margin-left:510px;
+        border-radius:30px;
+
+
+    } 
+.a6 {
+    width:200px;
+    height:30px;
+    background-color:skyblue;
+   margin-top:20px;
+    margin-left:380px;
+    border-radius:30px;
+
+    } 
+.a7 {
+    width:200px;
+    height:30px;
+    background-color:#BAF5DD  ;
+   margin-top:20px;
+    margin-left:510px;
+     border-radius:30px;
+
+    } 
+.a8 {
+    width:200px;
+    height:30px;
+    background-color:yellow;
+   margin-top:20px;
+    margin-left:380px;
+    border-radius:30px;
+
+    } 
+.a9 {
+    width:200px;
+    height:30px;
+    background-color:cyan;
+    margin-top:20px;
+    margin-left:510px;
+    border-radius:30px;
+    } 
+.a2 {
+    width:35%;
+    height:400px;
+   
+    margin-left:400px;
+    margin-top:70px;
+    
+  
+}
+
+.a2 h5 {
+    color:#BA55D3;
+    font-size:70px;
+}
+
+.a2 h3 {
+    margin-top:30px ;
+    font-size:20px;
+}
+.a2 p {
+    margin-top:30px ;
+    font-size:20px;
+}
+
+/*------------------order start---------*/
+.OR1 {
+    margin-top:150px;
+width: 100%;
+height: 350px;
+
+}
+.OR2 {
+    border-top: 8px solid #BA55D3;
+    border-left: 8px solid #BA55D3;
+    box-shadow:0px 0px 10px
+rgba(0,0,0,.6);
+    margin-top:10px;
+width: 80%;
+height:300px;
+margin-left: 10%;
+display: flex;
+
+}
+.OR3 {
+width:60%;
+height:300px;
+}
+
+.OR3 h1 {
+    padding-left:30px;
+    font-size:50px;
+}
+.OR3 h2 {
+    padding-top:40px;
+    padding-left:30px;
+    font-size:30px;
+}
+.OR3 p {
+    padding-top:30px;
+    padding-left:30px;
+    font-size:18px;
+}
+.OR4 { 
+   
+width: 20%;
+height: 300px;
+margin-left:180px;
+}
+.OR5{
+  width: 100%; 
+  height: 40px; 
+  background-color:#90EE90;
+ margin-top: 150px;
+ border-radius:10px;
+text-align: center;
+padding-top:15px;
+box-shadow:0px 0px 10px
+rgba(0,0,0,.2);
+}
+.OR5:hover{
+     border: 3px solid #BA55D3 ;
+     width:100%;
+    height:40px;
+    padding-top:15px;
+   margin-top:150px ;
+   font-size:18px;
+   text-align:center; 
+   color: black;
+   font-weight: bold;
+   background-color:white ;
+   box-shadow:0px 0px 10px
+rgba(0,0,0,.5);
+}
+
+.OR5 a {
+    text-align: center;
+     margin-top: 30px;
+     text-decoration: none;
+    font-size: 24px;
+}
+
+/*------------------order end---------*/
+/*------------------service area start---------*/
+.n{
+    margin-top:100px;
+    width:100% ;
+    height:600px;
+
+}
+.o{
+    width:90%;
+    height:150px ;
+    background-color:white ;
+    margin-left:40px;
+    margin-top:50px;
+    display: flex;
+
+
+}
+
+.p {
+    width:90%;
+    height:150px ;
+    background-color:white ;
+   margin-left:40px;
+   margin-top:50px;
+   display: flex;
+}
+
+.q {
+  width:100%;
+  height:120px ;
+  
+  }
+ .q h1 {
+     text-align: center;
+   font-weight: bold;
+   font-size:45px;
+   color:#90EE90 ;
+
+ } 
+.q p {
+    margin-top:20px;
+    text-align:center;
+}
+
+.r{
+    box-shadow:0px 0px 10px
+rgba(0,0,0,.1);
+  height:150px;  
+width:25%;
+margin-left: 5%;
+
+}
+.r h4{
+    text-align:center;
+    margin-top:20px;
+}
+.s{
+    box-shadow:0px 0px 10px
+rgba(0,0,0,.1);
+  height:150px;  
+width:25%;
+margin-left:5%;
+}
+.s h4{
+    text-align:center;
+    margin-top:20px;
+}
+.t{
+    box-shadow:0px 0px 10px
+rgba(0,0,0,.1);
+  height:150px;  
+width:25%;
+margin-left: 5%;
+}
+.t h4 {
+    text-align:center;
+    margin-top:20px;
+}
+.u{
+    box-shadow:0px 0px 10px
+rgba(0,0,0,.1);
+  height:150px;  
+width:25%;
+margin-left: 5%;
+}
+.u h4{
+    text-align:center;
+    margin-top:20px;
+}
+ .v1{
+    padding-top:10px;
+    margin-top: 10px;
+    width: 90px;
+    height:70px;
+    margin-left:70px;
+    background:url(img/1.png);
+background-repeat:no-repeat;
+background-position:center;
+background-size:cover;
+ }
+ .v2{
+    margin-top:10px;
+    width: 90px;
+    height: 70px;
+    margin-left:70px;
+     background:url(img/2.png);
+background-repeat:no-repeat;
+background-position:center;
+background-size:cover;
+padding-top:20px;
+ }
+ .v3{
+    margin-top: 10px;
+    width: 90px;
+    height: 70px;
+    margin-left:70px;
+     background:url(img/3.png);
+background-repeat:no-repeat;
+background-position:center;
+background-size:cover;
+padding-top:20px;
+ }
+ .v4{
+    margin-top: 10px;
+    width: 90px;
+    height: 70px;
+   padding-top:20px;
+    margin-left:70px;
+    background:url(img/4.png);
+background-repeat:no-repeat;
+background-position:center;
+background-size:cover;
+ }
+ .v5{
+    margin-top: 10px;
+    width: 90px;
+    height: 70px;
+   padding-top:20px;
+    margin-left:70px;
+    background:url(img/5.png);
+background-repeat:no-repeat;
+background-position:center;
+background-size:cover;
+ }
+ .v6{
+    margin-top: 10px;
+    width: 90px;
+    height: 70px;
+    padding-top:20px;
+    margin-left:70px;
+    background:url(img/6.png);
+background-repeat:no-repeat;
+background-position:center;
+background-size:cover;
+ }
+ .v7{
+    margin-top: 10px;
+    width: 90px;
+    height: 70px;
+   padding-top:20px;
+    margin-left:70px;
+    background:url(img/7.png);
+background-repeat:no-repeat;
+background-position:center;
+background-size:cover;
+ }
+ .v8{
+    margin-top: 10px;
+    width: 90px;
+    height: 70px;
+   padding-top:20px;
+    margin-left:70px;
+    background:url(img/8.png);
+background-repeat:no-repeat;
+background-position:center;
+background-size:cover;
+ }
+ /*------------------service area end---------*/
+ /*------------------footer Start---------*/
+.Footer{
+
+    display:flex;
+    width:100%;
+    height: 400px;
+    background-color: black;
+
+}
+.Footer1{
+     margin-top:50px;
+    width:28%;
+    height: 300px;
+    background-color: white;
+    margin-left:50px;
+}
+.Footer2{
+    margin-top:50px;
+    width:28%;
+    height: 300px;
+    background-color:red;
+    margin-left:45px;
+}
+.Footer3{
+     margin-top:50px;
+    width:28%;
+    height: 300px;
+    background-color:yellow ;
+    margin-left:45px;
+}
+
+
+
+
+
+
+
+
+  /*------------------footer end---------*/
